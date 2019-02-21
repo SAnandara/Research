@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: services
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SAnandara
+Implementation-Vendor-Id: com.first
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/services
+Created-By: Maven Integration for Eclipse
+
